@@ -1,0 +1,4 @@
+source_dir = "/example"
+output_file = "Caddyfile"
+domain = "example.com"
+email = "your-actual-email@example.com"
